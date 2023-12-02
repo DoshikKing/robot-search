@@ -1,7 +1,7 @@
 package com.robot.search;
 
 /**
- * Hello world!
+ * Main executable class
  *
  */
 public class App 
