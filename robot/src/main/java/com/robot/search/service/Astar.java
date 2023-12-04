@@ -25,7 +25,7 @@ public class Astar {
     // Terget node
     private Node targetNode;
 
-
+    //TODO: need to implement A* algorithm
     public Node findPath() {
         
         // Searching for target node while we have nodes
